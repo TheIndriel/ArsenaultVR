@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5314863532146134003}
   - component: {fileID: 3508723290040309371}
   - component: {fileID: 3508723290040309351}
+  - component: {fileID: -1129763981715702745}
   m_Layer: 0
   m_Name: ring target 10
   m_TagString: Untagged
@@ -174,6 +175,18 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &-1129763981715702745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3510538784776505413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f36444d0e76264ea4346f599927d64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &9208416932132988415
 PrefabInstance:
   m_ObjectHideFlags: 0
