@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 9141849752345403402}
   - component: {fileID: 4346822706438513740}
   m_Layer: 0
-  m_Name: signOrb_Red 1
+  m_Name: signOrb_Green
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43,7 +43,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 86501946074011784}
-  m_Mesh: {fileID: 4300000, guid: a5642970281a3a44cacf8f3cffa8a4b9, type: 3}
+  m_Mesh: {fileID: 4300000, guid: e5e4441823c439140994095f3b435697, type: 3}
 --- !u!23 &86501946076062896
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -141,7 +141,7 @@ Transform:
   m_GameObject: {fileID: 5981369026142692216}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0.21581587}
-  m_LocalScale: {x: 0.051672395, y: 0.051672395, z: 0.051672395}
+  m_LocalScale: {x: 0.041123994, y: 0.041123994, z: 0.041123994}
   m_Children: []
   m_Father: {fileID: 86501946073740036}
   m_RootOrder: 0
